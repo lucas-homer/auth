@@ -3,7 +3,7 @@
 package-lock.json
 
 # dependencies
-/node_modules
+/server/node_modules
 
 # testing
 /coverage
